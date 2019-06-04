@@ -1,1 +1,0 @@
-Rotating Cube w/ Texture
