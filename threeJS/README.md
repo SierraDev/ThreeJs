@@ -1,1 +1,1 @@
-#Rotating Cube w/ Texture
+Rotating Cube w/ Texture
